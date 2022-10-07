@@ -1,4 +1,4 @@
-<h3 align="center">welcome to the Los pollos hermanos family. My name is Gustavo but you can call me Amdebirhan Abebe te frontend developer from India</h3>
+<h3 align="center">welcome to the Los pollos hermanos family. My name is Gustavo but you can call me Amdebirhan Abebe </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amde-et&label=Profile%20views&color=0e75b6&style=flat" alt="amde-et" /> </p>
 
