@@ -1,6 +1,5 @@
 
-<h3 align="center"> Budding computer scientist dedicated to solving the diverse issues that plague our communities through innovative software systems built with precise, high-level programming. Currently looking to establish a firm technical and organizational background in software engineering. Dependable team member accustomed to making meaningful bonds with community members to share experiences and bring about change.
-  welcome to the Los pollos hermanos family. My name is Gustavo but you can call me Amdebirhan Abebe </h3>
+<h3 align="center"> Budding computer scientist dedicated to solving the diverse issues that plague our communities through innovative software systems built with   precise, high-level programming. Currently looking to establish a firm technical and organizational background in software engineering. Dependable team member accustomed to making meaningful bonds with community members to share experiences and bring about change.welcome to the Los pollos hermanos family. My name is Gustavo but you can call me Amdebirhan Abebe </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amde-et&label=Profile%20views&color=0e75b6&style=flat" alt="amde-et" /> </p>
 
