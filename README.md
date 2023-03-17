@@ -1,5 +1,5 @@
 
-<h3 align="center"> Budding computer scientist dedicated to solving the diverse issues that plague our communities through innovative software systems built with   precise, high-level programming. Currently looking to establish a firm technical and organizational background in software engineering. Dependable team member accustomed to making meaningful bonds with community members to share experiences and bring about change.welcome to the Los pollos hermanos family. My name is Gustavo but you can call me Amdebirhan Abebe </h3>
+<h3 align="center">Welcome to the los pollos hermanos family ! My name is Gustavo but you can call me Amdebirhan Abebe </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amde-et&label=Profile%20views&color=0e75b6&style=flat" alt="amde-et" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🔭 I’m currently working on **Here i come Web3 , am comming for you too blockchain. Nothing is safe with me including you AI and ML. I will hunt you down**
 
-- 🌱 I’m currently learning **fullstack software engineering at Alx/holberton**
+- 🌱 I’m currently learning **Fullstack software engineering at Alx/holberton**
 
-- 👯 I’m looking to collaborate on **Python , C++, JS**
+- 👯 I’m looking to collaborate on **Backend development**
 
-- 🤝 I’m looking for help with **Python , C++, JS**
+- 🤝 I’m looking for help with ** Front End  , Web3**
 
-- 💬 Ask me about **C++, python , Js , Git**
+- 💬 Ask me about * *C++, python , Js , Git **
 
-- ⚡ Fun fact **My codes are funnier that me!**
+- ⚡ Fun fact ** just check on of the repos , a lots of funs there**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
