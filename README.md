@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Here i come Web3 , am comming for you too blockchain. Nothing is safe with me including you AI and ML. I will hunt you down**
+- 🔭 I’m currently working on ** WEB 3 Here i come Web3 , am comming for you too blockchain. Nothing is safe with me including you AI and ML. I will hunt you down**
 
 - 🌱 I’m currently learning **Fullstack software engineering at Alx/holberton**
 
