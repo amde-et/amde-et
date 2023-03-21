@@ -17,7 +17,7 @@
 
 - 💬 Ask me about * *C++, python , Js , Git **
 
-- ⚡ Fun fact ** just check on of the repos , a lots of funs there**
+- ⚡ Fun fact ** i am not the dude in a profile Stop **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
