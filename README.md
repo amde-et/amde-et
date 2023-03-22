@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Amdebirhan Abebe</h1>
-<h2 align="center">Welcome to the los pollos hermanos family ! My name is Gustavo but you can call me Amdebirhan Abebe </h2>
-<h3 align="center">A raising Software Engineer</h3>
+<h3 align="center">A raising Software Engineer / Raising Computer Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amde-et&label=Profile%20views&color=0e75b6&style=flat" alt="amde-et" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amde-et" alt="amde-et" /></a> </p>
 
-- ⚡ Fun fact **I am not the person on the profile**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
